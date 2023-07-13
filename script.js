@@ -1,4 +1,3 @@
-console.log('hello world')
 const inputBox = document.getElementById("inputbox");
 const listContainer = document.getElementById("list_container");
 
